@@ -3,6 +3,7 @@
 // Create your references to the html elements here
 const ageInputEl = document.getElementById("age-input")
 const submissionBtn = document.getElementById("submission-btn");
+const paragraph = document.getElementById("response")
 
 // create a mutable variable called age and do not assign it a value.
 
