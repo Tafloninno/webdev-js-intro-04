@@ -6,6 +6,7 @@ const submissionBtn = document.getElementById("submission-btn");
 const paragraph = document.getElementById("response")
 
 // create a mutable variable called age and do not assign it a value.
+let age;
 
 
 function checkAgeAndRespond() {
